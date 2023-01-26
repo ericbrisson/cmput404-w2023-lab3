@@ -37,8 +37,7 @@ if form_ok:
     print(f"Set-Cookie: username={username}")
     print(f"Set-Cookie: password={password}")
     
-
-#print(f"Set Cookie: test=something")
+# "Set-Cookie instead of Set Cookie"
 
 print()
 
